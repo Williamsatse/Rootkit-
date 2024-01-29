@@ -1,0 +1,5 @@
+[autorun]
+icon=DD.ico
+open=launch.bat
+ACTION=Click Ok ro tun
+shell\open\command=launch.bat
